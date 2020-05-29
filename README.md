@@ -16,7 +16,7 @@
 ## Donate 
 
 [<img src="https://raw.githubusercontent.com/imsawankumar/Heroku-Build-Packs/master/files/paypal.png">](https://www.paypal.me/sawan1800)
-[<img src="https://raw.githubusercontent.com/imsawankumar/Heroku-Build-Packs/master/files/upi.png" width="147">](#)
+[<img src="https://raw.githubusercontent.com/imsawankumar/Heroku-Build-Packs/master/files/upi.png">](#)
 
 ### Credits :heart:‍ 
 
