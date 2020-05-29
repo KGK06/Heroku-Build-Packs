@@ -5,7 +5,6 @@
 <p align="center">
 <a href="https://img.shields.io/github/issues/imsawankumar/Heroku-Build-Packs"><img alt="issues" src="https://img.shields.io/github/issues/imsawankumar/Heroku-Build-Packs"/></a>
 <a href="https://sawankumar.gitlab.io/"><img alt="author" src="https://img.shields.io/badge/author-Sawan%20Kumar-red"/></a>
-<a href="https://www.python.org/"><img alt="language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"/></a>
 <a href="https://github.com/ellerbrock/open-source-badges/"><img alt="Open-Source Badge" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>
 </p>
 
