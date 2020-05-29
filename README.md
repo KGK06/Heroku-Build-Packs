@@ -13,7 +13,10 @@
 
 > ## Heroku-Build-Packs
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/sawan1800)
+## Donate 
+
+[<img src="https://raw.githubusercontent.com/imsawankumar/Heroku-Build-Packs/master/files/paypal.png">](https://www.paypal.me/sawan1800)
+[<img src="https://raw.githubusercontent.com/imsawankumar/Heroku-Build-Packs/master/files/upi.png" width="147">](#)
 
 ### Credits :heart:‍ 
 
