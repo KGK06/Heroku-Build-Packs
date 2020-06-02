@@ -26,5 +26,6 @@
 * [Heroku](https://github.com/heroku/heroku-buildpack-chromedriver)
 * [Heroku](https://github.com/heroku/heroku-buildpack-apt)
 * [Jontewks](https://github.com/jontewks/puppeteer-heroku-buildpack)
+* [SayanthD](https://github.com/SayanthD/aria2-heroku)
 
 
