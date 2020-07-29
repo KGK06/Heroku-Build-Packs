@@ -12,13 +12,13 @@
 
 ### Credits :heart:‍ 
 
-* [Jonathanong](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
-* [HasibulKabir](https://github.com/HasibulKabir/heroku-buildpack-rarlab)
-* [Opendoor-Labs](https://github.com/opendoor-labs/heroku-buildpack-p7zip)
-* [Heroku](https://github.com/heroku/heroku-buildpack-google-chrome)
-* [Heroku](https://github.com/heroku/heroku-buildpack-chromedriver)
-* [Heroku](https://github.com/heroku/heroku-buildpack-apt)
-* [Jontewks](https://github.com/jontewks/puppeteer-heroku-buildpack)
-* [SayanthD](https://github.com/SayanthD/aria2-heroku)
-* [The-Antrax](https://github.com/The-Antrax/heroku-buildpack-rclone-mod)
-* [Nenokkadine](https://github.com/Nenokkadine/Fclone-BuildPack)
+* [FFMPEG](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
+* [RARLAB](https://github.com/HasibulKabir/heroku-buildpack-rarlab)
+* [P7ZIP](https://github.com/opendoor-labs/heroku-buildpack-p7zip)
+* [GOOGLE-CHROME](https://github.com/heroku/heroku-buildpack-google-chrome)
+* [CHROMEDRIVER](https://github.com/heroku/heroku-buildpack-chromedriver)
+* [APT](https://github.com/heroku/heroku-buildpack-apt)
+* [PUPPETEER](https://github.com/jontewks/puppeteer-heroku-buildpack)
+* [ARIA2](https://github.com/SayanthD/aria2-heroku)
+* [RCLONE](https://github.com/The-Antrax/heroku-buildpack-rclone-mod)
+* [FCLONE](https://github.com/Nenokkadine/Fclone-BuildPack)
