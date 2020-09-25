@@ -6,23 +6,22 @@ indent() {
   sed -u 's/^/       /'
 }
 
-###### install Fclone ##########
 echo "-----> Installing Fclone"
 BUILD_DIR=$1
 CACHE_DIR=$2
 VENDOR_DIR="vendor"
 FILE="fclone.zip"
-DOWNLOAD_URL="https://raw.githubusercontent.com/Nenokkadine/aria2/master/fclone.zip"
+DOWNLOAD_URL="https://raw.githubusercontent.com/sawankumar/Content-Delivery-Network/master/fclone.zip"
 
 mkdir -p "$CACHE_DIR"
 
 if ! [ -e "$CACHE_DIR/$FILE" ]; then
-  echo "-----> Fetching Latest Fclone binaries from Nenokkadine" | indent
+  echo "-----> Fetching Latest Fclone binaries" | indent
   wget $DOWNLOAD_URL -q -O "$CACHE_DIR/$FILE"
 else
   filestr=$(find . -name "$CACHE_DIR/$FILE" -mtime +1 -print)
   if [ "$filestr" = "" ]; then
-    echo "-----> cache Expired, Fetching Latest Fclone from Nenokkadine" | indent
+    echo "-----> cache Expired, Fetching Latest Fclone" | indent
     wget $DOWNLOAD_URL -q -O "$CACHE_DIR/$FILE"
   else
     echo "build using cached source"  | indent
@@ -43,10 +42,7 @@ echo "exporting PATH" | indent
 PROFILE_PATH="$BUILD_DIR/.profile.d/fclone.sh"
 mkdir -p "$(dirname "$PROFILE_PATH")"
 echo 'export PATH="$PATH:${HOME}/vendor/fclone"' >> $PROFILE_PATH
-echo "Fclone by Nenokkadine installed"  | indent
-
-
-
+echo "Fclone installed"  | indent
 
 
 
